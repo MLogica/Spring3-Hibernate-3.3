@@ -1,0 +1,140 @@
+#main {font: 12px "lucida grande",tahoma,verdana,sans-serif; color:#45008a; padding-left: 15px; padding-top:10px;}
+#main table { margin: 1em; border-collapse: collapse; }
+#main td, th { padding: .3em; border: 1px #dcb9ff solid;  font-size:15px; text-align:left;}
+#main thead { background: #660099; color:white; font-weight: bold;}
+#main tr.pastecolor { background-color: #d9fecf; color: black; }
+#main tr.highlight { background: #c9f; }
+
+body { font: 12px "lucida grande",tahoma,verdana,sans-serif;}
+
+#seo {padding-left:100px;width:100%}
+#seo .left-panel {float:left; margin-right:40px; margin-left: 10px;}
+#seo .left-panel h4 {padding-left:20px;margin:0px;}
+
+#seo table { margin: 1em; border-collapse: collapse; font-family: arial,sans-serif; }
+#seo td, th { padding: .3em; border: 1px #0066FF solid;  font-size:14px; color:#ffffff;padding-right: 5px;}
+#seo thead { background: #003366; border: 1px #0066FF solid;}
+#seo tr.pastecolor { background-color: #fff; color: black; }
+
+#orangeHeader {background-color:#ff6d06; height:20px; width:97%; padding-left: 25px; padding-bottom:3px; padding-top:3px;
+               font-weight: bold; font-size: 14px; color:white; }
+#orangeHeader a {color:white; padding-right:10px; padding-left:10px;}
+
+.redLink {color:red; font-size:10pt;}
+
+#reportReq {width:780px; height:20px;background-color:#00ffcc;margin-top:20px;padding-left:15px;}
+#reportReq .accList {float:right;margin-right:50px;padding-bottom:4px;}
+
+#greenTable table { float:left; border-spacing: 0px; margin-left:25px;}
+#greenTable td, th {border: 0.5px #66ff66 solid; font-size:14px; padding-right: 5px;
+                    border-width: 1px;
+                    padding: 1px;
+                    border-style: inset;
+                    -moz-border-radius: 0px 0px 0px 0px;}
+#greenTable thead { text-align: center;font-weight:bold;font-size:22px; background-color:#7ba400; color:#ffffff; }
+#greenTable .bottomBar1 {text-align: center;font-weight:bold;background-color:#99cc00;}
+#greenTable .bottomBar2 {text-align: center;background-color:#fff;font-weight:bold;}
+#greenTable .bar {background-color: #d7ffeb}
+#greenTable .indent {text-align: right;padding-right:8px;}
+
+.greenLabel {color: #007900; font-weight: bold; }
+
+.greenLabel2 {color: #007900; background-color:white; border:0px; font-size: 14px!important; font-weight: lighter; text-align: right!important; border:0px!important; }
+
+#purpleDiv {font: 10px "lucida grande",tahoma,verdana,sans-serif; color:#45008a; padding-left: 15px;
+			margin-left:25px;  height: 35px; border: 1px #dcb9ff solid; width:890px; margin-top:5px;font-size:10px;}
+#purpleDiv table {font: 12px "lucida grande",tahoma,verdana,sans-serif; }			
+			
+
+.blueTable {font: 10px tahoma,verdana,sans-serif; color:#003366; padding-left: 15px; padding-top:10px;}
+.blueTable table { margin: 1em; border-collapse: collapse; }
+.blueTable table a {  color:#003366; }
+.blueTable td, th { padding: .3em; border: 1px #0984ff solid;  font-size:11px; text-align:left;}
+.blueTable thead { background: #003366; color:white; font-weight: bold;}
+
+.orangeTable {font: 12px tahoma,verdana,sans-serif; color:#003366; padding-left: 15px; padding-top:10px;}
+.orangeTable table { margin: 1em; border-collapse: collapse; }
+.orangeTable table a {  color:#990000; }
+.orangeTable td, th { padding: .3em; border: 1px #d0ea82 solid;  font-size:15px; text-align:left;}
+.orangeTable thead { background: #7a991a; color:white; font-weight: bold;}
+
+.forestGreenTable {font: 12px tahoma,verdana,sans-serif; color:#007155; padding-left: 15px; padding-top:10px;}
+.forestGreenTable table { margin: 1em; border-collapse: collapse; }
+.forestGreenTable table a { color:#007155; }
+.forestGreenTable td, th { padding: .3em; font-size:15px; text-align:left;}
+.forestGreenTable thead { background:#00ae83; color:white; font-weight: bold;}
+
+/* api menu */
+.seoMenupad { padding-top:4px; padding-bottom:8px; }
+.apiHeader {padding-left:250px; font-size: 16px; font-weight: bold;}
+.apiBlock {text-align: right;padding-bottom: 10px;}
+.apiBlock .apiRightBlock {float:left; margin-left:50px;}
+.apiBlock .apiRightBlock table {width:650px;}
+.apiBlock .apiRightBlock table tr td {text-align: left;}
+.apiBlock p {color:#0000f0}
+.apiBlock .title {text-align: center!important;background-color: #eeeeee;height:20px;}
+
+.title {margin-top:10px;width:30px;font-size:12px;font-weight: bold;}
+
+.error_strings {color: red;}
+
+/* seo global */
+
+.purpleDiv {font: 12px "lucida grande",tahoma,verdana,sans-serif; color:#45008a; padding-left: 15px; margin-left:50px;
+            border: 1px #dcb9ff solid; width:900px; margin-top:20px;width:450px; background:#dcb9ff;}
+.purpleDiv select {width: 200px;}
+.purpleDiv .label { padding-left:10px; }
+
+.torquiseTable table { float:left; border-spacing: 0px; margin-left:25px; font-family: Verdana; font-size: 10px; padding-right:2px;margin-bottom:10px;}
+.torquiseTable td, th {border: 0.5px #095F5C solid; font-size:14px; padding-right: 5px; border-width: 1px; padding: 1px;
+                        border-style: inset; -moz-border-radius: 0px 0px 0px 0px; font-family: Verdana;}
+.torquiseTable thead { text-align: center;font-weight:bold;font-size:22px; background-color:#095F5C; color:#ffffff; }
+.torquiseTable .bottomBar1 {text-align: center;font-weight:bold;background-color:#438F8D;}
+.torquiseTable .bottomBar2 {text-align: center;background-color:#fff;font-weight:bold;}
+.torquiseTable .lighter {background-color: #c0d3d3;}
+
+#dhtmltooltip{
+position: absolute;
+width: 150px;
+border: 1px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+*/
+}
+
+.title_bar2 {color: #FFFFFF; background-color:#ff6d06; float: left; position: relative;width: 100%; height:25px;
+}
+.title_bar2  a {color:white; padding-right:10px; padding-left:10px; font-weight:bold;
+	font-family: arial,verdana,sans-serif;
+    font-size: small;}
+.trafficMenu {
+    background: none repeat scroll 0 0 #1C5A80;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-top: 30px;
+    font-family: arial,verdana,sans-serif;
+    font-size: small;    
+}
+.trafficMenu a { color: white; }
+	
+/* admin tool */	
+body a {font: bold 10px Verdana, sans-serif; color:#745490;}
+body h2 a {color:#ff6d06; font:bold 14px cursive, fantasy; text-decoration : none}
+
+.adminConfig .leftBlock {width:100px;float:left;border-right: 1px #dcb9ff solid;margin-top:10px; height:350px;}
+.adminConfig .rightBlock {float:left;margin-left:10px;margin-top:0px; font: Verdana, sans-serif; margin-left:40px;}
+.adminConfig .rightBlock table {font-size:0.8em; text-align:left; }
+.adminConfig .rightBlock table tr td {padding-right:20px;}
+.adminConfig h4 {height:18px; color:#745490; font: bold 13px Verdana, sans-serif; margin-bottom:10px; color:#745490}
+.adminConfig form input {font-size:0.8em;}
+
+.error_strings {color: red;  }
+.error_strings ul li a {font: 8px Verdana, sans-serif!important; color: red;}
+
+.login {text-align:right;margin-right:25px; color:#ff6d06;font: 10px Verdana, sans-serif;}
+.login a{color:#ff6d06;font: bold 10px Verdana, sans-serif;}
